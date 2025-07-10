@@ -22,4 +22,4 @@ A sophisticated multi-agent cryptocurrency venture capital analysis bot built wi
 - **Memory Management**: Working memory and long-term analysis storage
 - **LangSmith Integration**: Tracing and visualization of agent workflows
 
-## 📁 Project Structure
+
